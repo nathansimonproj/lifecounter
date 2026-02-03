@@ -164,11 +164,6 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="A2U-7w-NMM" secondAttribute="bottom" constant="20" id="sYE-8e-Qi6"/>
                         </constraints>
                     </view>
-                    <connections>
-                        <outlet property="loserLabel" destination="zKE-zC-PEA" id="kWM-fQ-Rrk"/>
-                        <outlet property="player1LifeLabel" destination="cUv-c0-5wx" id="9t9-uu-we2"/>
-                        <outlet property="player2LifeLabel" destination="j3m-DI-ScP" id="CPO-Pu-ah1"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
